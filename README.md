@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello👋
 
 <!--
 **tylersng/tylersng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Tyler. I love working with data, and as an aspiring developer, I’m inspired by all the ways we can turn data into smarter, real-world solutions.
